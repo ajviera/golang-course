@@ -9,9 +9,10 @@ package main
 // - Invitados: No pagan nada
 
 import (
-	"exercise_four/entities"
 	"fmt"
 	"strconv"
+
+	"github.com/ajviera/golang-course/exercise_four/entities"
 )
 
 func main() {

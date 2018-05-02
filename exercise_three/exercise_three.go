@@ -5,10 +5,11 @@ package main
 // popule un arbol binario y despues imprima los valores en orden ascendente
 
 import (
-	"exercise_three/tree"
 	"fmt"
 	"os"
 	"strconv"
+
+	"github.com/ajviera/golang-course/exercise_three/tree"
 )
 
 func main() {
